@@ -295,10 +295,12 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   padding: 10px 0 10px 20px;
 }
 .main-links ul li a{
-
   font-size: 14px;
-
 }
+#home {
+  border-top: 1px solid #F1F1F1;
+}
+
 /* Contact-info */
 .contact-info{
 
