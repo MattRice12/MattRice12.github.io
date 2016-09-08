@@ -292,7 +292,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 .main-links ul li{
   border-bottom: 1px solid #F1F1F1;
-  padding: 10px 0;
+  padding: 10px 0 10px 20px;
 }
 .main-links ul li a{
 
@@ -677,7 +677,6 @@ Change widths as necessary
 
   /* Sidebar */
   .sidebar{
-   padding-left: 20px;
    border-left: 1px solid #f1f1f1;
    margin-left: -50px;
    width: 140px;
