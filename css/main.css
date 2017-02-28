@@ -659,10 +659,9 @@ footer p{
   border-bottom: 1px solid lightgray;
   margin-bottom: 20px;
 }
-  .g2 {width:98.0%}
-  .g3 {width:98.0%}
-  .g4 {width:33.3%}
-}
+.g2 {width:98.0%}
+.g3 {width:98.0%}
+.g4 {width:33.3%}
 
 
 /* media Queries
@@ -699,6 +698,8 @@ Change widths as necessary
   .sidebar {
     display: none;
   }
+  .g4 {width:50%}
+
 }
 
 /* TABLET/NETBOOK */
